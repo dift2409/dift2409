@@ -10,9 +10,3 @@
 dift2409/dift2409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# https://tea.xyz/what-is-this-file
----
-version: 1.0.0
-codeOwners:
-  - '0x81280AC90F4d8e69352f3545b0885Ee931331aa8'
-quorum: 1
